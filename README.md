@@ -1,4 +1,4 @@
-
+```html
 <!-- Profile README: pratham-1903 -->
 
 <div align="center">
@@ -27,8 +27,7 @@ alt="Animated developer introduction" width="100%" />
 
 <br /><br />
 
-<img src="https://komarev.com/ghpvc/?username=pratham-1903&style=flat-square&color=ff7b72&label=Profile%20views"
-alt="Profile views" />
+<!-- WORKING FOLLOWERS BADGE -->
 <img src="https://img.shields.io/github/followers/pratham-1903?label=Followers&style=flat-square&color=58a6ff"
 alt="GitHub followers" />
 
@@ -201,3 +200,4 @@ alt="Thanks for stopping by"
 width="100%" />
 
 </div>
+```
