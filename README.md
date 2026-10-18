@@ -1,137 +1,124 @@
-<h1 align="center">Hi 👋, I'm Pratham Prasoon</h1>
-<h3 align="center">B.Tech CSE Core Student | Building Projects | Exploring App Development & AI/ML</h3>
+<!--
+  Profile README for pratham-1903
+  Companion files:
+    assets/divider.svg           -> animated section divider
+    .github/workflows/snake.yml  -> builds the animated contribution snake (run it once from the Actions tab)
+  GitHub strips JavaScript and CSS from READMEs, so every animation here is an animated SVG.
+-->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff7b72&center=true&vCenter=true&width=805&height=44&lines=AI%20Engineer%20%20%E2%80%A2%20Flutter%20Developer%20%E2%80%A2%20%20Content%20creator;Building%20AI-powered%20apps%20%26%20real-world%20software." alt="Typing headlines" />
-</p>
+<div align="center">
 
-- 🔭 I’m currently working on [BharatOS](https://github.com/pratham-1903/BharatOS)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7b72,50:bc8cff,100:58a6ff&height=260&section=header&text=Pratham%20Prasoon&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20CSE%20Core%20Student%20%E2%80%A2%20Building%20Projects%20%E2%80%A2%20Exploring%20App%20Dev%20%26%20AI%2FML&descSize=22&descAlignY=60" width="100%" alt="Pratham Prasoon - B.Tech CSE student building projects and exploring App Development and AI/ML" />
 
-- 🌱 I’m currently learning **App Development, AI/ML, Data Structures & Algorithms, Python, Web Development**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=1000&color=FF7B72&center=true&vCenter=true&width=820&height=60&lines=Hi+%F0%9F%91%8B%2C+I%27m+Pratham+%E2%80%94+welcome%21;AI+Engineer+%E2%80%A2+Flutter+Developer+%E2%80%A2+Content+Creator;Building+AI-powered+apps+%26+real-world+software;Turning+ideas+into+real+projects+%F0%9F%9A%80" alt="Animated intro: AI Engineer, Flutter Developer, Content Creator" />
 
-- 💬 Ask me about **Python, Web Development, Git & GitHub, AI-assisted development**
+<br />
 
-- 📫 How to reach me **prathamprasoon905@gmail.com**
+<a href="https://linkedin.com/in/pratham-prasoon-08399b382/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://instagram.com/_instgm_pratham_77_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://www.leetcode.com/pratham3310"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+<a href="mailto:prathamprasoon905@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-- ⚡ Fun fact **I enjoy turning ideas into real projects. 🚀**
+<br />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/pratham-prasoon-08399b382/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratham-prasoon" height="30" width="40" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=pratham-1903&label=Profile+views&color=ff7b72&style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/pratham-1903?label=Followers&style=flat-square&color=58a6ff&logo=github&logoColor=white" alt="GitHub followers" />
 
-<a href="https://instagram.com/_instgm_pratham_77_" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_instgm_pratham_77_" height="30" width="40" />
-</a>
+</div>
 
-<a href="https://www.leetcode.com/pratham3310" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pratham3310" height="30" width="40" />
-</a>
-</p>
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-<h3 align="left">Languages and Tools:</h3>
+<!-- ABOUT -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2400&pause=3500&color=FF7B72&center=true&vCenter=true&width=560&height=50&lines=%2F%2F+about+me" alt="// about me" />
+</div>
 
-<p align="left">
+```text
+pratham@bharatos:~$ whoami
+Pratham Prasoon, B.Tech CSE (Core) student
 
-<a href="https://developer.android.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-</a>
+pratham@bharatos:~$ cat now.txt
+🔭 building    BharatOS
+🌱 learning    App Development, AI/ML, DSA, Python, Web Development
+💬 ask me      Python, Web Development, Git & GitHub, AI-assisted development
+📫 reach me    prathamprasoon905@gmail.com
+⚡ fun fact    I enjoy turning ideas into real projects 🚀
+```
 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-</a>
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-</a>
+<!-- FEATURED PROJECT -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2400&pause=3500&color=BC8CFF&center=true&vCenter=true&width=560&height=50&lines=%2F%2F+featured+project" alt="// featured project" />
+  <br />
+  <a href="https://github.com/pratham-1903/BharatOS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pratham-1903&repo=BharatOS&theme=tokyonight&hide_border=true&border_radius=12&title_color=ff7b72&icon_color=58a6ff" alt="BharatOS repository" />
+  </a>
+</div>
 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-</a>
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-</a>
+<!-- TECH STACK -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2400&pause=3500&color=58A6FF&center=true&vCenter=true&width=560&height=50&lines=%2F%2F+tech+stack" alt="// tech stack" />
+  <br />
+  <sub><b>Mobile &amp; desktop apps</b></sub><br />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,react,electron&theme=dark" alt="Flutter, Dart, Kotlin, Android Studio, React Native, Electron" />
+  <br />
+  <sub><b>Languages</b></sub><br />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css&theme=dark" alt="Python, C, C++, JavaScript, HTML, CSS" />
+  <br />
+  <sub><b>Backend &amp; databases</b></sub><br />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,redis&theme=dark" alt="Node.js, Express, MongoDB, MySQL, PostgreSQL, Redis" />
+  <br />
+  <sub><b>Cloud &amp; DevOps</b></sub><br />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,linux&theme=dark" alt="AWS, Google Cloud, Docker, Kubernetes, Linux" />
+  <br />
+  <sub><b>Tools</b></sub><br />
+  <img src="https://skillicons.dev/icons?i=git,github,figma&theme=dark" alt="Git, GitHub, Figma" />
+</div>
 
-<a href="https://dart.dev" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
-</a>
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-</a>
+<!-- GITHUB STATS -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2400&pause=3500&color=FF7B72&center=true&vCenter=true&width=560&height=50&lines=%2F%2F+github+stats" alt="// github stats" />
+  <br />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pratham-1903&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&title_color=ff7b72&icon_color=58a6ff&include_all_commits=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratham-1903&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&title_color=ff7b72&langs_count=8" alt="Most used languages" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=pratham-1903&theme=tokyonight&hide_border=true&border_radius=12&ring=ff7b72&fire=ff7b72&currStreakLabel=58a6ff" alt="GitHub streak" />
+</div>
 
-<a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/>
-</a>
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-</a>
+<!-- CONTRIBUTION SNAKE -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2400&pause=3500&color=BC8CFF&center=true&vCenter=true&width=560&height=50&lines=%2F%2F+contribution+snake" alt="// contribution snake" />
+  <br />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pratham-1903/pratham-1903/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pratham-1903/pratham-1903/output/github-snake.svg" />
+    <img alt="A snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/pratham-1903/pratham-1903/output/github-snake.svg" width="100%" />
+  </picture>
+</div>
 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-</a>
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-<a href="https://flutter.dev" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-</a>
+<!-- LEETCODE -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2400&pause=3500&color=58A6FF&center=true&vCenter=true&width=560&height=50&lines=%2F%2F+leetcode" alt="// leetcode" />
+  <br />
+  <a href="https://leetcode.com/pratham3310">
+    <img src="https://leetcard.jacoblin.cool/pratham3310?theme=dark&ext=heatmap" alt="LeetCode stats" width="520" />
+  </a>
+</div>
 
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-</a>
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-</a>
-
-<a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
-</a>
-
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-</a>
-
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-</a>
-
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</a>
-
-<a href="https://nodejs.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-</a>
-
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-</a>
-
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-</a>
-
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-</a>
-
-<a href="https://redis.io" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-</a>
-
-<a href="https://zapier.com" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/>
-</a>
-
-</p>
+<!-- CLOSING -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=3500&color=FF7B72&center=true&vCenter=true&width=700&height=50&lines=%2F%2F+let%27s+build+something+together" alt="// let's build something together" />
+  <br />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:bc8cff,100:ff7b72&height=140&section=footer&text=Thanks%20for%20stopping%20by&fontSize=26&fontColor=ffffff&animation=twinkling&fontAlignY=68" width="100%" alt="Thanks for stopping by" />
+</div>
